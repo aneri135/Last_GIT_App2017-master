@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919409020693",
+    "firebase_url": "https://gitapp-7de32.firebaseio.com",
+    "project_id": "gitapp-7de32",
+    "storage_bucket": "gitapp-7de32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919409020693:android:9e178c416717ec21",
+        "android_client_info": {
+          "package_name": "com.git.gitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919409020693-m47bk7icc1o836te450idtip4oinimbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlInKGcj8b7GBEsEvHciG1ZDC_J-CJnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
